@@ -1,3 +1,7 @@
+This is a demo card list application which use antDesign components.
+It includes a side navigation, routing is done using next/navigation.
+and uses https://fakestoreapi.com/products for sample data. 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
